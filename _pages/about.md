@@ -11,7 +11,7 @@ I am a PhD researcher at [COSIC, KU Leuven](https://www.esat.kuleuven.be/cosic/)
 [Frederik Vercauteren](https://scholar.google.com/citations?user=pYTEVIEAAAAJ&hl=en), [Nigel Smart](https://nigelsmart.github.io/), and [Ilia Iliashenko](https://homes.esat.kuleuven.be/~ilia/). My research interests include 
 both the theoretical aspects and practical applications of privacy-enhancing technologies (PET).
 
-Previously, I obtained a MSc in Mathematics from KU Leuven (with great distinction) and a Master of Physics from the University of Manchester 
+Previously, I obtained an MSc in Mathematics from KU Leuven (with great distinction) and a Master of Physics from the University of Manchester 
 (first class honors). Prior to that, I received a BSc in Physics from Xi'an JiaoTong University (honor science program).  
 
 This is the [pdf version](/files/resume.pdf) of my CV.
