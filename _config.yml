@@ -21,10 +21,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "jiayi.png"
   name             : "Jiayi Kang"
   pronouns         : # example: "she/her"  
-  bio              :  "PhD student in Cryptography"
+  bio              :  "PhD researcher in Cryptography"
   location         : # "Earth"
   employer         : "KU Leuven"
   uri              : # URL
