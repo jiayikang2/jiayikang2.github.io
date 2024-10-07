@@ -18,9 +18,9 @@ This is the [pdf version](/files/resume.pdf) of my CV.
 
 News
 ======
- - **11 Sep 2024** I am giving a talk at SCN'24 about our batched PDTE work.
+ - **11 Sep 2024** I am giving a talk at [SCN'24](https://scn.unisa.it/scn24/) about our batched PDTE work.
 
- - **14 Mar 2024** I gave a seminar at University of Luxembourg about our oblivious top-\\(k\\) and \\(k\\)-NN work. 
+ - **14 Mar 2024** I gave a [seminar at University of Luxembourg](http://www.crypto-uni.lu/meetings.html) about our oblivious top-\\(k\\) and \\(k\\)-NN work. 
 
  - **01 Jul 2023** I visited the group led by [Jung Hee Cheon](https://scholar.google.com/citations?user=KlTc3U4AAAAJ&hl=en) at Seoul National University during the summer.
 
