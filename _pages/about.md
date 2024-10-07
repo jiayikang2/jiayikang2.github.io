@@ -14,7 +14,7 @@ both the theoretical aspects and practical applications of privacy-enhancing tec
 Previously, I obtained a MSc in Mathematics from KU Leuven (with great distinction) and a Master of Physics from the University of Manchester 
 (first class honors). Prior to that, I received a BSc in Physics from Xi'an JiaoTong University (honor science program).  
 
-This is the [pdf version](/files/resume) of my CV.
+This is the [pdf version](/files/resume.pdf) of my CV.
 
 News
 ======
