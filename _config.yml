@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Jiayi Kang"
   pronouns         : # example: "she/her"  
-  bio              : # "Short biography for the left-hand sidebar"
+  bio              :  "PhD student in Cryptography"
   location         : # "Earth"
-  employer         : "COSIC, KU Leuven"
+  employer         : "KU Leuven"
   uri              : # URL
   email            : "jiayi.kang@kuleuven.be" 
 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/jiayi-kang-018ab7185/"
+  linkedin         : #"https://www.linkedin.com/in/jiayi-kang-018ab7185/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
