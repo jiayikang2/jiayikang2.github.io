@@ -24,6 +24,6 @@ News
 
  - **01 Jul 2023** I visited the group led by [Jung Hee Cheon](https://scholar.google.com/citations?user=KlTc3U4AAAAJ&hl=en) at Seoul National University during the summer.
 
- - **14 Mar 2023** I gave a talk at [the 2nd fhe.org](https://fhe.org/conferences/conference-2023/resources) about our polynomial functions mod \\(p^e\\) and faster bootstrapping work. 
+ - **14 Mar 2023** I gave a talk at [the 2nd fhe.org conference](https://fhe.org/conferences/conference-2023/resources) about our polynomial functions mod \\(p^e\\) and faster bootstrapping work. 
 
  - **04 Jul 2022** I did an internship at Intel Labs in the team led by [Ro Cammarota](https://www.intel.com/content/www/us/en/research/featured-researchers/ro-cammarota.html). 
