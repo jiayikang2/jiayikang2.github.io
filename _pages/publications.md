@@ -10,19 +10,19 @@ Conferences
 ======
 **On the overflow and \\(p\\)-adic theory applied to Homomorphic Encryption**  
 Jacob Blindenbach, Jung Hee Cheon, Gamze Gürsoy, Jiayi Kang.  
-Cyber Security, Cryptology, and Machine Learning (CSCML) 2024 [[eprint]](https://eprint.iacr.org/2024/1353)
-
-**Faster Private Decision Tree Evaluation for Batched Input from Homomorphic Encryption**  
-Kelong Cong, Jiayi Kang, Georgio Nicolas, Jeongeun Park.  
-Security and Cryptography for Networks (SCN) 2024 [[eprint]](https://eprint.iacr.org/2024/662)
+accepted as a short paper at [CSCML'24](https://www.cscml.org/) [[eprint]](https://eprint.iacr.org/2024/1353)
 
 **Revisiting Oblivious Top-\\(k\\) Selection with Applications to Secure \\(k\\)-NN Classification**  
 Kelong Cong, Robin Geelen, Jiayi Kang, Jeongeun Park.  
-Selected Areas in Cryptography (SAC) 2024 [[eprint]](https://eprint.iacr.org/2023/852)
+accepted at [SAC'24](https://sacworkshop.org/SAC24/) [[eprint]](https://eprint.iacr.org/2023/852)
+
+**Faster Private Decision Tree Evaluation for Batched Input from Homomorphic Encryption**  
+Kelong Cong, Jiayi Kang, Georgio Nicolas, Jeongeun Park.  
+published at [SCN'24](https://scn.unisa.it/scn24/) [[eprint]](https://eprint.iacr.org/2024/662)
 
 **On Polynomial Functions Modulo \\(p^e\\) and Faster Bootstrapping for Homomorphic Encryption**  
 Robin Geelen, Ilia Iliashenko, Jiayi Kang, Frederik Vercauteren.  
-Eurocrypt 2023 [[eprint]](https://eprint.iacr.org/2022/1364)
+published at [Eurocrypt'23](https://eurocrypt.iacr.org/2023/) [[eprint]](https://eprint.iacr.org/2022/1364)
 
 Preprints 
 ======
