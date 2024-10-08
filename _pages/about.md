@@ -26,4 +26,4 @@ News
 
  - **14 Mar 2023** I gave a talk at [the 2nd fhe.org conference](https://fhe.org/conferences/conference-2023/resources) about our polynomial functions mod \\(p^e\\) and faster bootstrapping work. 
 
- - **04 Jul 2022** I did an internship at Intel Labs in the team led by [Ro Cammarota](https://www.intel.com/content/www/us/en/research/featured-researchers/ro-cammarota.html). 
+ - **04 Jul 2022** I did a summer internship at Intel Labs in the team led by [Ro Cammarota](https://www.intel.com/content/www/us/en/research/featured-researchers/ro-cammarota.html). 
