@@ -24,11 +24,11 @@ published at [SCN'24](https://scn.unisa.it/scn24/) [[eprint]](https://eprint.iac
 Robin Geelen, Ilia Iliashenko, Jiayi Kang, Frederik Vercauteren.  
 published at [Eurocrypt'23](https://eurocrypt.iacr.org/2023/) [[eprint]](https://eprint.iacr.org/2022/1364)
 
-Preprints 
+Journals 
 ======
 **Ultra-secure storage and analysis of genetic data for the advancement of precision medicine**  
 *Jacob Blindenbach\\(^1\\), Jiayi Kang\\(^1\\), Seungwan Hong\\(^1\\), Caline Karam, Thomas Lehner, and Gamze Gürsoy.
-[[eprint]](https://www.biorxiv.org/content/10.1101/2024.04.16.589793v1)  
+accepted at [Genome Biology'24](https://genomebiology.biomedcentral.com/) [[eprint]](https://www.biorxiv.org/content/10.1101/2024.04.16.589793v1)  
 
 
 
