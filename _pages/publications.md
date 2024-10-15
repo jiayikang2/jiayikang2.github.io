@@ -28,7 +28,7 @@ Preprints
 ======
 **Ultra-secure storage and analysis of genetic data for the advancement of precision medicine**  
 *Jacob Blindenbach\\(^1\\), Jiayi Kang\\(^1\\), Seungwan Hong\\(^1\\), Caline Karam, Thomas Lehner, and Gamze Gürsoy.
-[[eprint]]({https://www.biorxiv.org/content/10.1101/2024.04.16.589793v1)  
+[[eprint]](https://www.biorxiv.org/content/10.1101/2024.04.16.589793v1)  
 
 
 
