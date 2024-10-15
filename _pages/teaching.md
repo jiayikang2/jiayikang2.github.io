@@ -13,7 +13,6 @@ Master thesis co-supervision
 ======
 - Hua Xu (2024-Present), Horizontal scalability for privately accelerating ZK provers
 - Sabrine Chentouf (2024-Present), Privacy-preserving federated learning
-- Ibrahim Zaidan (2024-Present), Efficient polynomial evaluation on secret data
 - Pritam Pal (2023-2024), From zero to HEro: zkSNARKs proof generation with Homomorphic Encryption
 - Yingshuo Xi (2022-2023), An Investigation of Polynomial Activation Functions in Neural Networks
 - Siva Kumar (2022), Secure Data Classification with Homomorphic Encryption
