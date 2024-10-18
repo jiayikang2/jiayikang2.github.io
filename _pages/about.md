@@ -18,7 +18,9 @@ This is the [pdf version](/files/resume.pdf) of my CV.
 
 News
 ======
- - **11 Sep 2024** I am giving a talk at [SCN'24](https://scn.unisa.it/scn24/) about our batched PDTE work.
+ - **18 Oct 2024** Our paper [Blind zkSNARKs for Private Proof Delegation and Verifiable Computation over Encrypted Data](https://eprint.iacr.org/2024/1684) is in eprint!
+
+ - **11 Sep 2024** I gave a talk at [SCN'24](https://scn.unisa.it/scn24/) about our batched PDTE work.
 
  - **14 Mar 2024** I gave a [seminar at University of Luxembourg](http://www.crypto-uni.lu/meetings.html) about our oblivious top-\\(k\\) and \\(k\\)-NN work. 
 

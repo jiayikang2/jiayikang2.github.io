@@ -32,6 +32,6 @@ accepted at [Genome Biology'24](https://genomebiology.biomedcentral.com/) [[epri
 
 Preprints
 ======
-**Blind zkSNARKs for Private Proof Delegation and Verifiable Computation over Encrypted Data**
+**Blind zkSNARKs for Private Proof Delegation and Verifiable Computation over Encrypted Data**  
 Mariana Gama, Emad Heydari Beni, Jiayi Kang, Jannik Spiessens, Frederik Vercauteren.
 [[eprint]](https://eprint.iacr.org/2024/1684)
