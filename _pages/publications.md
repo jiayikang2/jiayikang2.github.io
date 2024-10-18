@@ -30,5 +30,8 @@ Journals
 *Jacob Blindenbach\\(^1\\), Jiayi Kang\\(^1\\), Seungwan Hong\\(^1\\), Caline Karam, Thomas Lehner, and Gamze Gürsoy.
 accepted at [Genome Biology'24](https://genomebiology.biomedcentral.com/) [[eprint]](https://www.biorxiv.org/content/10.1101/2024.04.16.589793v1)  
 
-
-
+Preprints
+======
+**Blind zkSNARKs for Private Proof Delegation and Verifiable Computation over Encrypted Data**
+Mariana Gama, Emad Heydari Beni, Jiayi Kang, Jannik Spiessens, Frederik Vercauteren.
+[[eprint]](https://eprint.iacr.org/2024/1684)
