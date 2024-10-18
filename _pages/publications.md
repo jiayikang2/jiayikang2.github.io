@@ -27,7 +27,7 @@ published at [Eurocrypt'23](https://eurocrypt.iacr.org/2023/) [[eprint]](https:/
 Journals 
 ======
 **Ultra-secure storage and analysis of genetic data for the advancement of precision medicine**  
-*Jacob Blindenbach\\(^1\\), Jiayi Kang\\(^1\\), Seungwan Hong\\(^1\\), Caline Karam, Thomas Lehner, and Gamze Gürsoy.
+*Jacob Blindenbach\\(^1\\), Jiayi Kang\\(^1\\), Seungwan Hong\\(^1\\), Caline Karam, Thomas Lehner, and Gamze Gürsoy.  
 accepted at [Genome Biology'24](https://genomebiology.biomedcentral.com/) [[eprint]](https://www.biorxiv.org/content/10.1101/2024.04.16.589793v1)  
 
 Preprints
