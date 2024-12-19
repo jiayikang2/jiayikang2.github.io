@@ -4,7 +4,7 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
-**On the overflow and \\(p\\)-adic theory applied to Homomorphic Encryption** 
+**On the overflow and \\(p\\)-adic theory applied to Homomorphic Encryption**  
 Cyber Security, Cryptology and Machine Learning (CSCML), virtual 2024 [[slides]](/files/slides_padic.pdf)
 
 **Faster Private Decision Tree Evaluation for Batched Input from Homomorphic Encryption**  
