@@ -8,13 +8,14 @@ author_profile: true
 
 Conferences
 ======
-**On the overflow and \\(p\\)-adic theory applied to Homomorphic Encryption**  
-Jacob Blindenbach, Jung Hee Cheon, Gamze Gürsoy, Jiayi Kang.  
-accepted as a short paper at [CSCML'24](https://www.cscml.org/) [[eprint]](https://eprint.iacr.org/2024/1353)
 
 **Revisiting Oblivious Top-\\(k\\) Selection with Applications to Secure \\(k\\)-NN Classification**  
 Kelong Cong, Robin Geelen, Jiayi Kang, Jeongeun Park.  
 accepted at [SAC'24](https://sacworkshop.org/SAC24/) [[eprint]](https://eprint.iacr.org/2023/852)
+
+**On the overflow and \\(p\\)-adic theory applied to Homomorphic Encryption**  
+Jacob Blindenbach, Jung Hee Cheon, Gamze Gürsoy, Jiayi Kang.  
+published at [CSCML'24](https://www.cscml.org/) [[eprint]](https://eprint.iacr.org/2024/1353)
 
 **Faster Private Decision Tree Evaluation for Batched Input from Homomorphic Encryption**  
 Kelong Cong, Jiayi Kang, Georgio Nicolas, Jeongeun Park.  
