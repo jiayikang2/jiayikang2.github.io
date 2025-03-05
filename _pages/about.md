@@ -18,9 +18,7 @@ This is the [pdf version](/files/resume.pdf) of my CV.
 
 News
 ======
- - **19 Dec 2024** I gave a talk at [CSCML'24](https://www.cscml.org/) about our \\(p\\)-adic HE work.
-
- - **18 Oct 2024** Our paper [Blind zkSNARKs for Private Proof Delegation and Verifiable Computation over Encrypted Data](https://eprint.iacr.org/2024/1684) is in eprint!
+ - **25 Mar 2025** I will give a talk at [fhe.org'25](https://fhe.org/conferences/conference-2025/) about our [Blind zkSNARK work](https://eprint.iacr.org/2024/1684)!
 
  - **11 Sep 2024** I gave a talk at [SCN'24](https://scn.unisa.it/scn24/) about our batched PDTE work.
 
@@ -28,6 +26,6 @@ News
 
  - **01 Jul 2023** I visited the group led by [Jung Hee Cheon](https://scholar.google.com/citations?user=KlTc3U4AAAAJ&hl=en) at Seoul National University during the summer.
 
- - **14 Mar 2023** I gave a talk at [the 2nd fhe.org conference](https://fhe.org/conferences/conference-2023/resources) about our polynomial functions mod \\(p^e\\) and faster bootstrapping work. 
+ - **14 Mar 2023** I gave a talk at [fhe.org'23](https://fhe.org/conferences/conference-2023/resources) about our polynomial functions mod \\(p^e\\) and faster bootstrapping work. 
 
  - **04 Jul 2022** I did a summer internship at Intel Labs in the team led by [Ro Cammarota](https://www.intel.com/content/www/us/en/research/featured-researchers/ro-cammarota.html). 
