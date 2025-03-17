@@ -11,7 +11,7 @@ Conferences
 
 **Revisiting Oblivious Top-\\(k\\) Selection with Applications to Secure \\(k\\)-NN Classification**  
 Kelong Cong, Robin Geelen, Jiayi Kang, Jeongeun Park.  
-accepted at [SAC'24](https://sacworkshop.org/SAC24/) [[eprint]](https://eprint.iacr.org/2023/852)
+published at [SAC'24](https://sacworkshop.org/SAC24/) [[eprint]](https://eprint.iacr.org/2023/852)
 
 **On the overflow and \\(p\\)-adic theory applied to Homomorphic Encryption**  
 Jacob Blindenbach, Jung Hee Cheon, Gamze Gürsoy, Jiayi Kang.  
