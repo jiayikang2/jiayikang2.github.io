@@ -4,7 +4,7 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
-**Blind zkSNARKs for Private Proof Delegation and Verifiable Computation over Encrypted Data**
+**Blind zkSNARKs for Private Proof Delegation and Verifiable Computation over Encrypted Data**  
 The 4th Annual FHE.org Conference on Fully Homomorphic Encryption, Sofia, Bulgaria, 2025 [[video&slides]](https://fhe.org/conferences/conference-2025/resources)
 
 **On the overflow and \\(p\\)-adic theory applied to Homomorphic Encryption**  
