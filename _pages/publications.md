@@ -33,6 +33,10 @@ published at [Genome Biology'24](https://genomebiology.biomedcentral.com/) [[pap
 
 Preprints
 ======
+**Pirouette: Query Efficient Single-Server PIR**  
+Jiayi Kang, Leonard Schild.
+[[eprint]](https://eprint.iacr.org/2025/680)
+
 **Blind zkSNARKs for Private Proof Delegation and Verifiable Computation over Encrypted Data**  
 Mariana Gama, Emad Heydari Beni, Jiayi Kang, Jannik Spiessens, Frederik Vercauteren.
 [[eprint]](https://eprint.iacr.org/2024/1684)
