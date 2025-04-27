@@ -18,7 +18,7 @@ This is the [pdf version](/files/resume.pdf) of my CV.
 
 News
 ======
- - **25 Mar 2025** Our work [Pirouette: Query Efficient Single-Server PIR](https://eprint.iacr.org/2025/680) is in eprint now!
+ - **16 Apr 2025** Our work [Pirouette: Query Efficient Single-Server PIR](https://eprint.iacr.org/2025/680) is in eprint now!
 
  - **25 Mar 2025** I gave a talk at [fhe.org'25](https://fhe.org/conferences/conference-2025/) about our [Blind zkSNARK work](https://eprint.iacr.org/2024/1684).
 
