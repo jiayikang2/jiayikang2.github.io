@@ -34,7 +34,7 @@ published at [Genome Biology'24](https://genomebiology.biomedcentral.com/) [[pap
 Preprints
 ======
 **FRIttata: Distributed Proof Generation of FRI-based SNARKs**  
-*Hua Xu, Mariana Gama, Emad Heydari Beni, Jiayi Kang.  
+*Hua Xu\\(^1\\), Mariana Gama, Emad Heydari Beni, Jiayi Kang.  
 [[eprint]](https://eprint.iacr.org/2025/1285)
 
 **Pirouette: Query Efficient Single-Server PIR**  
