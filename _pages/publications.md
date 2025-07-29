@@ -33,8 +33,12 @@ published at [Genome Biology'24](https://genomebiology.biomedcentral.com/) [[pap
 
 Preprints
 ======
+**FRIttata: Distributed Proof Generation of FRI-based SNARKs**  
+*Hua Xu, Mariana Gama, Emad Heydari Beni, Jiayi Kang.  
+[[eprint]](https://eprint.iacr.org/2025/1285)
+
 **Pirouette: Query Efficient Single-Server PIR**  
-Jiayi Kang, Leonard Schild.
+Jiayi Kang, Leonard Schild.  
 [[eprint]](https://eprint.iacr.org/2025/680)
 
 **Blind zkSNARKs for Private Proof Delegation and Verifiable Computation over Encrypted Data**  
