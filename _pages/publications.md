@@ -6,7 +6,7 @@ author_profile: true
 ---
 ##### (authors ordered alphabetically except for publications marked with *)
 
-Conferences
+# Conferences
 ======
 
 **Revisiting Oblivious Top-\\(k\\) Selection with Applications to Secure \\(k\\)-NN Classification**  
@@ -25,7 +25,7 @@ published at [SCN'24](https://scn.unisa.it/scn24/) [[eprint]](https://eprint.iac
 Robin Geelen, Ilia Iliashenko, Jiayi Kang, Frederik Vercauteren.  
 published at [Eurocrypt'23](https://eurocrypt.iacr.org/2023/) [[eprint]](https://eprint.iacr.org/2022/1364)
 
-Journals 
+# Journals 
 ======
 **Blind zkSNARKs for Private Proof Delegation and Verifiable Computation over Encrypted Data**  
 Mariana Gama, Emad Heydari Beni, Jiayi Kang, Jannik Spiessens, Frederik Vercauteren.  
@@ -36,7 +36,7 @@ accepted by [CiC'25](https://cic.iacr.org/) [[eprint]](https://eprint.iacr.org/2
 *Jacob Blindenbach\\(^1\\), Jiayi Kang\\(^1\\), Seungwan Hong\\(^1\\), Caline Karam, Thomas Lehner, and Gamze Gürsoy.  
 published at [Genome Biology'24](https://genomebiology.biomedcentral.com/) [[paper]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03447-9)  
 
-Preprints
+# Preprints
 ======
 **FRIttata: Distributed Proof Generation of FRI-based SNARKs**  
 *Hua Xu\\(^1\\), Mariana Gama, Emad Heydari Beni, Jiayi Kang.  
