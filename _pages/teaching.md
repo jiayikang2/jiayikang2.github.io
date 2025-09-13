@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-- Guest Lecturer for the course [Privacy and Big Data](https://onderwijsaanbod.kuleuven.be/syllabi/e/H00Y2AE.htm#activetab=doelstellingen_idp1704352) (2023 Fall, 2024 Fall)
+- Guest Lecturer for the course [Privacy and Big Data](https://onderwijsaanbod.kuleuven.be/syllabi/e/H00Y2AE.htm#activetab=doelstellingen_idp1704352) (2023 Fall, 2024 Fall, 2025 Fall)
 - Guest Lecturer for the course [Privacy Technologies](https://onderwijsaanbod.kuleuven.be/syllabi/e/H09L2AE.htm#activetab=doelstellingen_idp1445712) (2024 Fall)
 - Teaching Assistant for the course [Computer Algebra for Cryptography](https://onderwijsaanbod.kuleuven.be/syllabi/e/H09L2AE.htm#activetab=doelstellingen_idp47040) (2023 Spring, 2024 Spring)
 

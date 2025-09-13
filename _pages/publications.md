@@ -27,6 +27,11 @@ published at [Eurocrypt'23](https://eurocrypt.iacr.org/2023/) [[eprint]](https:/
 
 Journals 
 ======
+**Blind zkSNARKs for Private Proof Delegation and Verifiable Computation over Encrypted Data**  
+Mariana Gama, Emad Heydari Beni, Jiayi Kang, Jannik Spiessens, Frederik Vercauteren.  
+accepted by [CiC'25](https://cic.iacr.org/) [[eprint]](https://eprint.iacr.org/2024/1684)
+
+
 **Ultra-secure storage and analysis of genetic data for the advancement of precision medicine**  
 *Jacob Blindenbach\\(^1\\), Jiayi Kang\\(^1\\), Seungwan Hong\\(^1\\), Caline Karam, Thomas Lehner, and Gamze Gürsoy.  
 published at [Genome Biology'24](https://genomebiology.biomedcentral.com/) [[paper]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03447-9)  
@@ -40,7 +45,3 @@ Preprints
 **Pirouette: Query Efficient Single-Server PIR**  
 Jiayi Kang, Leonard Schild.  
 [[eprint]](https://eprint.iacr.org/2025/680)
-
-**Blind zkSNARKs for Private Proof Delegation and Verifiable Computation over Encrypted Data**  
-Mariana Gama, Emad Heydari Beni, Jiayi Kang, Jannik Spiessens, Frederik Vercauteren.
-[[eprint]](https://eprint.iacr.org/2024/1684)
