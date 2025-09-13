@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Community Services"
 permalink: /community/
 author_profile: true
 ---
