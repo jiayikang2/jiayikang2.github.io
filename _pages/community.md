@@ -5,6 +5,7 @@ permalink: /community/
 author_profile: true
 ---
 
+- Program committee of the FHE.org conference 2026
 - Program committee of ACM Web conference (WWW) 2026
 - Reviewer for Designs, Codes and Cryptography (DCC) 2024
 

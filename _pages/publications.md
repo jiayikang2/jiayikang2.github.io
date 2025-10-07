@@ -28,7 +28,7 @@ published at [Eurocrypt'23](https://eurocrypt.iacr.org/2023/) [[eprint]](https:/
 
 **Blind zkSNARKs for Private Proof Delegation and Verifiable Computation over Encrypted Data**  
 Mariana Gama, Emad Heydari Beni, Jiayi Kang, Jannik Spiessens, Frederik Vercauteren.  
-accepted by [CiC'25](https://cic.iacr.org/) [[eprint]](https://eprint.iacr.org/2024/1684)
+published at [CiC'25](https://cic.iacr.org/) [[eprint]](https://eprint.iacr.org/2024/1684)
 
 
 **Ultra-secure storage and analysis of genetic data for the advancement of precision medicine**  

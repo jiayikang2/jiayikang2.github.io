@@ -11,6 +11,8 @@ author_profile: true
 
 Master thesis co-supervision
 ======
+- Antoine Janssens (2025-Present), Private information retrieval using GBFV homomorphic encryption  
+  co-supervised with Robin Geelen. Promotor: Prof. Frederik Vercauteren.
 - Hua Xu (2024-2025), Distributed Proof Generation of FRI-based SNARKs  
   co-supervised with Mariana Gama, Emad Heydari Beni. Promotor: Prof. Nigel Smart.
 - Sabrine Chentouf (2024-2025), Lattice-based zero-knowledge proofs for privacy-preserving federated learning  
