@@ -26,6 +26,11 @@ published at [Eurocrypt'23](https://eurocrypt.iacr.org/2023/) [[eprint]](https:/
 
 ## Journals 
 
+**Pirouette: Query Efficient Single-Server PIR**  
+Jiayi Kang, Leonard Schild.  
+to appear in [PoPETs'26](https://petsymposium.org/) [[eprint]](https://eprint.iacr.org/2025/680)
+
+
 **Blind zkSNARKs for Private Proof Delegation and Verifiable Computation over Encrypted Data**  
 Mariana Gama, Emad Heydari Beni, Jiayi Kang, Jannik Spiessens, Frederik Vercauteren.  
 published at [CiC'25](https://cic.iacr.org/) [[eprint]](https://eprint.iacr.org/2024/1684)
@@ -40,7 +45,3 @@ published at [Genome Biology'24](https://genomebiology.biomedcentral.com/) [[pap
 **FRIttata: Distributed Proof Generation of FRI-based SNARKs**  
 *Hua Xu\\(^1\\), Mariana Gama, Emad Heydari Beni, Jiayi Kang.  
 [[eprint]](https://eprint.iacr.org/2025/1285)
-
-**Pirouette: Query Efficient Single-Server PIR**  
-Jiayi Kang, Leonard Schild.  
-[[eprint]](https://eprint.iacr.org/2025/680)

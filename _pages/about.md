@@ -18,8 +18,9 @@ This is the [pdf version](/files/resume.pdf) of my CV.
 
 News
 ======
+ - **October 2025** Our work [Pirouette: Query Efficient Single-Server PIR](https://eprint.iacr.org/2025/680) has been accepted by PETS 2026.
+ 
  - **October 2025** I will be part of the Program Committees for ACM WWW 2026 and FHE.org 2026.
 
  - **September 2025** Our [blind zkSNARK work](https://eprint.iacr.org/2024/1684) has been accepted by CiC 2025.
 
- - **April 2025** Our work [Pirouette: Query Efficient Single-Server PIR](https://eprint.iacr.org/2025/680) is in eprint now!
