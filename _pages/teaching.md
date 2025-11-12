@@ -12,7 +12,7 @@ author_profile: true
 Master thesis co-supervision
 ======
 - Fernando Javier Lopez Cerezo~(2025-Present), Lattice-based anonymous credential  
-  co-supervised with Omid Mirzamohammadi, Varesh Mishra, Emad Heydari Beni.  
+  co-supervised with Emad Heydari Beni, Omid Mirzamohammadi, Varesh Mishra.  
   Promoter: Prof. Bart Preneel, Prof. Frederik Vercauteren
 - Antoine Janssens (2025-Present), Private information retrieval using GBFV homomorphic encryption  
   co-supervised with Robin Geelen.  
