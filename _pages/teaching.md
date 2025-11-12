@@ -12,16 +12,23 @@ author_profile: true
 Master thesis co-supervision
 ======
 - Fernando Javier Lopez Cerezo~(2025-Present), Lattice-based anonymous credential  
-  co-supervised with Omid Mirzamohammadi, Emad Heydari Beni, Varesh Mishra. Promoter: Prof. Bart Preneel, Prof. Frederik Vercauteren
+  co-supervised with Omid Mirzamohammadi, Emad Heydari Beni, Varesh Mishra.  
+  Promoter: Prof. Bart Preneel, Prof. Frederik Vercauteren
 - Antoine Janssens (2025-Present), Private information retrieval using GBFV homomorphic encryption  
-  co-supervised with Robin Geelen. Promotor: Prof. Frederik Vercauteren.
+  co-supervised with Robin Geelen.  
+  Promotor: Prof. Frederik Vercauteren.
 - Hua Xu (2024-2025), Distributed Proof Generation of FRI-based SNARKs  
-  co-supervised with Mariana Gama, Emad Heydari Beni. Promotor: Prof. Nigel Smart.
+  co-supervised with Mariana Gama, Emad Heydari Beni.  
+  Promotor: Prof. Nigel Smart.
 - Sabrine Chentouf (2024-2025), Lattice-based zero-knowledge proofs for privacy-preserving federated learning  
-  co-supervised with Mariana Gama, Emad Heydari Beni. Promotor: Prof. Frederik Vercauteren.
+  co-supervised with Mariana Gama, Emad Heydari Beni.  
+  Promotor: Prof. Frederik Vercauteren.
 - Pritam Pal (2023-2024), From zero to HEro: zkSNARKs proof generation with Homomorphic Encryption  
-  co-supervised with Mariana Gama, Emad Heydari Beni. Promotor: Prof. Bimal Roy, Prof. Nigel Smart.
+  co-supervised with Mariana Gama, Emad Heydari Beni.  
+  Promotor: Prof. Bimal Roy, Prof. Nigel Smart.
 - Yingshuo Xi (2022-2023), An Investigation of Polynomial Activation Functions in Neural Networks  
-  co-supervised with Junyi Zhu, Robin Geelen.  Promotor: Prof. Matthew Blaschko, Prof. Frederik Vercauteren.
+  co-supervised with Junyi Zhu, Robin Geelen.  
+  Promotor: Prof. Matthew Blaschko, Prof. Frederik Vercauteren.
 - Siva Kumar (2022), Secure Data Classification with Homomorphic Encryption  
-  co-supervised with Robin Geelen, Jeongeun Park.  Promotor: Prof. Bimal Roy, Prof. Frederik Vercauteren.
+  co-supervised with Robin Geelen, Jeongeun Park.  
+  Promotor: Prof. Bimal Roy, Prof. Frederik Vercauteren.
