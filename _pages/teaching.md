@@ -11,6 +11,8 @@ author_profile: true
 
 Master thesis co-supervision
 ======
+- Fernando Javier Lopez Cerezo~(2025-Present), Lattice-based anonymous credential  
+  co-supervised with Omid Mirzamohammadi, Emad Heydari Beni, Varesh Mishra. Promoter: Prof. Bart Preneel, Prof. Frederik Vercauteren
 - Antoine Janssens (2025-Present), Private information retrieval using GBFV homomorphic encryption  
   co-supervised with Robin Geelen. Promotor: Prof. Frederik Vercauteren.
 - Hua Xu (2024-2025), Distributed Proof Generation of FRI-based SNARKs  
