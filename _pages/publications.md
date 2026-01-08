@@ -30,6 +30,10 @@ published at [Eurocrypt'23](https://eurocrypt.iacr.org/2023/) [[eprint]](https:/
 Jiayi Kang, Leonard Schild.  
 to appear in [PoPETs'26](https://petsymposium.org/) [[eprint]](https://eprint.iacr.org/2025/680)
 
+**FRIttata: A FRI-based Polynomial Commitment Scheme for Distributed Proof Generation**  
+*Hua Xu\\(^1\\), Mariana Gama, Emad Heydari Beni, Jiayi Kang.  
+published at [CiC'25](https://cic.iacr.org/) [[eprint]](https://eprint.iacr.org/2025/1285)
+
 
 **Blind zkSNARKs for Private Proof Delegation and Verifiable Computation over Encrypted Data**  
 Mariana Gama, Emad Heydari Beni, Jiayi Kang, Jannik Spiessens, Frederik Vercauteren.  
@@ -42,6 +46,3 @@ published at [Genome Biology'24](https://genomebiology.biomedcentral.com/) [[pap
 
 ## Preprints
 
-**FRIttata: Distributed Proof Generation of FRI-based SNARKs**  
-*Hua Xu\\(^1\\), Mariana Gama, Emad Heydari Beni, Jiayi Kang.  
-[[eprint]](https://eprint.iacr.org/2025/1285)
