@@ -5,16 +5,17 @@ permalink: /teaching/
 author_profile: true
 ---
 
-- Guest Lecturer for the course [Privacy and Big Data](https://onderwijsaanbod.kuleuven.be/syllabi/e/H00Y2AE.htm#activetab=doelstellingen_idp1704352) (2023 Fall, 2024 Fall, 2025 Fall)
-- Guest Lecturer for the course [Privacy Technologies](https://onderwijsaanbod.kuleuven.be/syllabi/e/H09L2AE.htm#activetab=doelstellingen_idp1445712) (2024 Fall)
-- Teaching Assistant for the course [Computer Algebra for Cryptography](https://onderwijsaanbod.kuleuven.be/syllabi/e/H09L2AE.htm#activetab=doelstellingen_idp47040) (2023 Spring, 2024 Spring)
+- Invited Lecturer for [Rings and Finite Fields in Modern Cryptography](https://asci.school/project/3231/) at the Advanced School for Computing and Imaging (ASCI), the Netherlands (2026)
+- Guest Lecturer for the KU Leuven course [Privacy and Big Data](https://onderwijsaanbod.kuleuven.be/syllabi/e/H00Y2AE.htm#activetab=doelstellingen_idp1704352) (2023 Fall, 2024 Fall, 2025 Fall)
+- Guest Lecturer for the KU Leuven course [Privacy Technologies](https://onderwijsaanbod.kuleuven.be/syllabi/e/H09L2AE.htm#activetab=doelstellingen_idp1445712) (2024 Fall)
+- Teaching Assistant for the KU Leuven course [Computer Algebra for Cryptography](https://onderwijsaanbod.kuleuven.be/syllabi/e/H09L2AE.htm#activetab=doelstellingen_idp47040) (2023 Spring, 2024 Spring)
 
 Master thesis co-supervision
 ======
-- Fernando Javier Lopez Cerezo~(2025-Present), Lattice-based anonymous credential  
+- Fernando Javier Lopez Cerezo (2025-Present), Lattice-based anonymous credential  
   co-supervised with Emad Heydari Beni, Omid Mirzamohammadi, Varesh Mishra.  
   Promoter: Prof. Bart Preneel, Prof. Frederik Vercauterens
-- Antoine Janssens (2025-Present), Private information retrieval with GBFV: analysis and implementation  
+- Antoine Janssens (2025-2026), Private information retrieval with GBFV: analysis and implementation  
   co-supervised with Robin Geelen， Jannik Spiessens.  
   Promotor: Prof. Frederik Vercauteren.
 - Hua Xu (2024-2025), Distributed Proof Generation of FRI-based SNARKs  
