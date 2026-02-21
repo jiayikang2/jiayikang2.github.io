@@ -15,7 +15,9 @@ This is the [pdf version](/files/resume.pdf) of my CV.
 
 News
 ======
- - **February 2026** I am giving a lecture together with a hands-on session on homomorphic encrytion at ASCI, the Netherlands.
+ - **March 2026** I will be attending fhe.org and RWC in Taipei. Come say hi if you're around!
+
+ - **February 2026** I gave a lecture on homomorphic encrytion for PhD students in the ASCI program at Leiden University.
 
  - **December 2025** Our [FRIttata work on FRI-based PCS For distributed proof generation](https://eprint.iacr.org/2025/680) has been published by CiC 2025.
 

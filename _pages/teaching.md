@@ -5,6 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
+- Guest Lecturer for the KU Leuven course [Advanced Methods in Cryptography](https://onderwijsaanbod.kuleuven.be/syllabi/e/H03G5A) (2026 Spring)
 - Invited Lecturer for [Rings and Finite Fields in Modern Cryptography](https://asci.school/project/3231/) at the Advanced School for Computing and Imaging (ASCI), the Netherlands (2026)
 - Guest Lecturer for the KU Leuven course [Privacy and Big Data](https://onderwijsaanbod.kuleuven.be/syllabi/e/H00Y2AE.htm#activetab=doelstellingen_idp1704352) (2023 Fall, 2024 Fall, 2025 Fall)
 - Guest Lecturer for the KU Leuven course [Privacy Technologies](https://onderwijsaanbod.kuleuven.be/syllabi/e/H09L2AE.htm#activetab=doelstellingen_idp1445712) (2024 Fall)
