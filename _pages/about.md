@@ -21,6 +21,8 @@ News
 
  - **December 2025** Our [FRIttata work on FRI-based PCS For distributed proof generation](https://eprint.iacr.org/2025/680) has been published by CiC 2025.
 
+- **November 2025** I graduated! Check my PhD thesis [here](/files/phd_thesis_nopreface.pdf).
+
  - **October 2025** Our [Pirouette: Query Efficient Single-Server PIR](https://eprint.iacr.org/2025/680) has been accepted by PETS 2026.
  
  - **October 2025** I will be part of the Program Committees for ACM WWW 2026 and FHE.org 2026.
