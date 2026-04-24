@@ -15,7 +15,7 @@ This is the [pdf version](/files/resume.pdf) of my CV.
 
 News
 ======
- - **March 2026** I will be part of the Program Committees for ACM WWW 2026.
+ - **March 2026** I will be part of the Program Committees for ACM CCS 2026.
 
  - **February 2026** I gave a lecture on homomorphic encrytion for PhD students in the ASCI program at Leiden University.
 
