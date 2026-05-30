@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 **Pirouette: Query Efficient Single-Server PIR**  
-Invited seminar at NTNU, Trondheim, Norway, 2026
+Invited seminar at NTNU, Trondheim, Norway, 2026 [[slides]](/files/slides_pirouette.pdf)
 
 **Blind zkSNARKs for Private Proof Delegation and Verifiable Computation over Encrypted Data**  
 Invited seminar at IIE Chinese Academy of Sciences, Beijing, China, 2025
