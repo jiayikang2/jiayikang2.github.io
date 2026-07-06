@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I am a PostDoc researcher at [Monash University](), under the supervision of [Prof. Ron Steinfeld](https://users.monash.edu.au/~rste/), [Prof. Muhammed Esgin](https://mfesgin.github.io/), and [Prof. Amin Sakzad](https://research.monash.edu/en/persons/amin-sakzad/). Prior to that, I accomplished my PhD at [COSIC, KU Leuven](https://www.esat.kuleuven.be/cosic/), under the supervision of 
-[Prof. Frederik Vercauteren](https://scholar.google.com/citations?user=pYTEVIEAAAAJ&hl=en), [Prof. Nigel Smart](https://nigelsmart.github.io/), and [Ilia Iliashenko](https://iliailia.github.io/). My research interests include 
+[Prof. Frederik Vercauteren](https://scholar.google.com/citations?user=pYTEVIEAAAAJ&hl=en), [Prof. Nigel Smart](https://nigelsmart.github.io/), and [Dr. Ilia Iliashenko](https://iliailia.github.io/). My research interests include 
 both the theoretical aspects and practical applications of privacy-enhancing technologies (PET). 
 
 This is the [pdf version](/files/resume.pdf) of my CV.
