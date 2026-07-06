@@ -4,11 +4,18 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
+## Invited Talks
+
 **Pirouette: Query Efficient Single-Server PIR**  
 Invited seminar at NTNU, Trondheim, Norway, 2026 [[slides]](/files/slides_pirouette.pdf)
 
 **Blind zkSNARKs for Private Proof Delegation and Verifiable Computation over Encrypted Data**  
 Invited seminar at IIE Chinese Academy of Sciences, Beijing, China, 2025
+
+**Revisiting Oblivious Top-\\(k\\) Selection with Applications to Secure \\(k\\)-NN Classification**  
+Invited seminar at ACG University of Luxembourg, Luxembourg, 2024  [[slides]](/files/slides_knn.pdf)
+
+## Conference Presentations
 
 **Blind zkSNARKs for Private Proof Delegation and Verifiable Computation over Encrypted Data**  
 The 4th Annual FHE.org Conference on Fully Homomorphic Encryption, Sofia, Bulgaria, 2025 [[video&slides]](https://fhe.org/conferences/conference-2025/resources)
@@ -18,9 +25,6 @@ Cyber Security, Cryptology and Machine Learning (CSCML), virtual 2024 [[slides]]
 
 **Faster Private Decision Tree Evaluation for Batched Input from Homomorphic Encryption**  
 Security and Cryptography for Networks (SCN), Amalfi, Italy, 2024  [[slides]](/files/SCN_PDTE.pdf)
-
-**Revisiting Oblivious Top-\\(k\\) Selection with Applications to Secure \\(k\\)-NN Classification**  
-Invited seminar at University of Luxembourg, 2024  [[slides]](/files/slides_knn.pdf)
 
 **On Polynomial Functions Modulo \\(p^e\\) and Faster Bootstrapping for Homomorphic Encryption**  
 The 2nd Annual FHE.org Conference on Fully Homomorphic Encryption, Tokyo, Japan, 2023  [[video]](https://www.youtube.com/watch?v=HPx_6_d4WDQ&list=PLnbmMskCVh1ei6AkXHDTAefkGZaBmtUQO&index=2),  [[slides]](https://cosicdatabase.esat.kuleuven.be/backend/publications/files/talk/583)
