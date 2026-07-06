@@ -1,10 +1,9 @@
 ---
 layout: archive
-title: "Talks"
+title: "Invited Talks"
 permalink: /talks/
 author_profile: true
 ---
-## Invited Talks
 
 **Pirouette: Query Efficient Single-Server PIR**  
 Invited seminar at NTNU, Trondheim, Norway, 2026 [[slides]](/files/slides_pirouette.pdf)
@@ -21,7 +20,7 @@ Invited seminar at ACG University of Luxembourg, Luxembourg, 2024  [[slides]](/f
 The 4th Annual FHE.org Conference on Fully Homomorphic Encryption, Sofia, Bulgaria, 2025 [[video&slides]](https://fhe.org/conferences/conference-2025/resources)
 
 **On the overflow and \\(p\\)-adic theory applied to Homomorphic Encryption**  
-Cyber Security, Cryptology and Machine Learning (CSCML), virtual 2024 [[slides]](/files/slides_padic.pdf)
+Cyber Security, Cryptology and Machine Learning (CSCML), Virtual 2024 [[slides]](/files/slides_padic.pdf)
 
 **Faster Private Decision Tree Evaluation for Batched Input from Homomorphic Encryption**  
 Security and Cryptography for Networks (SCN), Amalfi, Italy, 2024  [[slides]](/files/SCN_PDTE.pdf)
