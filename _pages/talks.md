@@ -10,7 +10,7 @@ author_profile: true
 Invited seminar at NTNU, Trondheim, Norway, 2026 [[slides]](/files/slides_pirouette.pdf)
 
 **Blind zkSNARKs for Private Proof Delegation and Verifiable Computation over Encrypted Data**  
-Invited seminar at IIE Chinese Academy of Sciences, Beijing, China, 2025
+Invited seminar at IIE Chinese Academy of Sciences, Beijing, China, 2025 [[slides]](/files/slides_blind_CAS.pdf)
 
 **Revisiting Oblivious Top-\\(k\\) Selection with Applications to Secure \\(k\\)-NN Classification**  
 Invited seminar at ACG University of Luxembourg, Luxembourg, 2024  [[slides]](/files/slides_knn.pdf)
